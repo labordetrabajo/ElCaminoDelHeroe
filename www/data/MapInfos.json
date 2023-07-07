@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Pueblo inicial","order":1,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":2,"expanded":false,"name":"Taberna","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Armeria","order":3,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":true,"name":"MazmorraDelBosque","order":7,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":5,"expanded":false,"name":"Primer_campamento","order":8,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":true,"name":"casa_kurono","order":4,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"casa_leyla","order":5,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Casa_Sabio","order":6,"parentId":7,"scrollX":819,"scrollY":461}
+]

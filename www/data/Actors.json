@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"PRINCIPAL_LUCHADOR","characterIndex":0,"characterName":"PRINCIPAL_CAMINANDO","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"PRINCIPAL_SERIO","traits":[],"initialLevel":1,"maxLevel":99,"name":"Principal","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"BRUJITA_PELEANDO","characterIndex":0,"characterName":"BRUJITA_CAMINANDO","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"BRUJITA_FELIZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brujita","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"PYKYBLANDER","characterIndex":0,"characterName":"PYKYBLANDER","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"PYKYBLANDER_SERIO","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pyky Blander","nickname":"","note":"","profile":""}
+]
